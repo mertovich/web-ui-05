@@ -10,6 +10,7 @@ export default class App extends Component {
         backgroundImage: `url("https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg?auto=compress&cs=tinysrgb&h=650&w=940")`,
         height: '100vh',
         width: '100%',
+        overflowX:'hidden',
         backgroundRepeat: 'no-repeat',
         backgroundSize: 'cover',
       }}>
